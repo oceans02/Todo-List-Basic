@@ -1,0 +1,7 @@
+div {
+  cursor: pointer;
+}
+
+.todo-list {
+  text-decoration: line-through;
+}
